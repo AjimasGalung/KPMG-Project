@@ -11,3 +11,5 @@ The client provided KPMG with 3 datasets:
 - Customer demographics
 - Customer addresses
 - Transactions
+
+[Dashboard Visualizations](https://public.tableau.com/app/profile/ajimas.galung.candra/viz/CustomerDemographicTargeting-KPMGProject/Dashboard1)
